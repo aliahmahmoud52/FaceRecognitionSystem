@@ -1,0 +1,332 @@
+c:\users\alia mahmoud\documents\visual studio 2015\Projects\Project_1_1\bin\Debug\Project_1_1.exe.config
+C:\Users\Alia Mahmoud\Documents\Visual Studio 2015\Projects\Project_1_1\bin\Debug\concrt140.dll
+C:\Users\Alia Mahmoud\Documents\Visual Studio 2015\Projects\Project_1_1\bin\Debug\cvextern.dll
+C:\Users\Alia Mahmoud\Documents\Visual Studio 2015\Projects\Project_1_1\bin\Debug\msvcp140.dll
+C:\Users\Alia Mahmoud\Documents\Visual Studio 2015\Projects\Project_1_1\bin\Debug\opencv_ffmpeg320.dll
+C:\Users\Alia Mahmoud\Documents\Visual Studio 2015\Projects\Project_1_1\bin\Debug\vcruntime140.dll
+C:\Users\Alia Mahmoud\Documents\Visual Studio 2015\Projects\Project_1_1\bin\Debug\Project_1_1.exe
+C:\Users\Alia Mahmoud\Documents\Visual Studio 2015\Projects\Project_1_1\bin\Debug\Project_1_1.pdb
+C:\Users\Alia Mahmoud\Documents\Visual Studio 2015\Projects\Project_1_1\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\Alia Mahmoud\Documents\Visual Studio 2015\Projects\Project_1_1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Alia Mahmoud\Documents\Visual Studio 2015\Projects\Project_1_1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Alia Mahmoud\Documents\Visual Studio 2015\Projects\Project_1_1\bin\Debug\Emgu.CV.World.dll
+C:\Users\Alia Mahmoud\Documents\Visual Studio 2015\Projects\Project_1_1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Alia Mahmoud\Documents\Visual Studio 2015\Projects\Project_1_1\bin\Debug\ZedGraph.dll
+C:\Users\Alia Mahmoud\Documents\Visual Studio 2015\Projects\Project_1_1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Alia Mahmoud\Documents\Visual Studio 2015\Projects\Project_1_1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Alia Mahmoud\Documents\Visual Studio 2015\Projects\Project_1_1\bin\Debug\Emgu.CV.World.xml
+C:\Users\Alia Mahmoud\Documents\Visual Studio 2015\Projects\Project_1_1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\Alia Mahmoud\Documents\Visual Studio 2015\Projects\Project_1_1\obj\Debug\Project_1_1.Form1.resources
+C:\Users\Alia Mahmoud\Documents\Visual Studio 2015\Projects\Project_1_1\obj\Debug\Project_1_1.Properties.Resources.resources
+C:\Users\Alia Mahmoud\Documents\Visual Studio 2015\Projects\Project_1_1\obj\Debug\Project_1_1.csproj.GenerateResource.Cache
+C:\Users\Alia Mahmoud\Documents\Visual Studio 2015\Projects\Project_1_1\obj\Debug\Project_1_1.exe
+C:\Users\Alia Mahmoud\Documents\Visual Studio 2015\Projects\Project_1_1\obj\Debug\Project_1_1.pdb
+C:\Users\Alia Mahmoud\Documents\Visual Studio 2015\Projects\Project_1_1\obj\Debug\Project_1_1.csprojResolveAssemblyReference.cache
+E:\Project_1_1\bin\Debug\concrt140.dll
+E:\Project_1_1\bin\Debug\cvextern.dll
+E:\Project_1_1\bin\Debug\msvcp140.dll
+E:\Project_1_1\bin\Debug\opencv_ffmpeg320.dll
+E:\Project_1_1\bin\Debug\vcruntime140.dll
+E:\Project_1_1\bin\Debug\Project_1_1.exe.config
+E:\Project_1_1\bin\Debug\Project_1_1.exe
+E:\Project_1_1\bin\Debug\Project_1_1.pdb
+E:\Project_1_1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+E:\Project_1_1\bin\Debug\ZedGraph.dll
+E:\Project_1_1\bin\Debug\Emgu.CV.UI.xml
+E:\Project_1_1\bin\Debug\Emgu.CV.UI.GL.xml
+E:\Project_1_1\bin\Debug\Emgu.CV.World.xml
+E:\Project_1_1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+E:\Project_1_1\obj\Debug\Project_1_1.csprojResolveAssemblyReference.cache
+E:\Project_1_1\obj\Debug\Project_1_1.Form1.resources
+E:\Project_1_1\obj\Debug\Project_1_1.Properties.Resources.resources
+E:\Project_1_1\obj\Debug\Project_1_1.csproj.GenerateResource.Cache
+E:\Project_1_1\obj\Debug\Project_1_1.csproj.CoreCompileInputs.cache
+E:\Project_1_1\obj\Debug\Project_1_1.exe
+E:\Project_1_1\obj\Debug\Project_1_1.pdb
+E:\Project_1_1\bin\Debug\SQLite.NET.dll
+E:\Project_1_1\bin\Debug\SQLite.dll
+E:\Project_1_1\bin\Debug\SQLite3.dll
+E:\Project_1_1\obj\Debug\Project_1_1.First_form.resources
+E:\Project_1_1\obj\Debug\Project_1_1.Form2.resources
+E:\Project_1_1\obj\Debug\Project_1_1.Train.resources
+E:\Project_1_1\obj\Debug\Project_1_1.DocForm.resources
+C:\Users\Rana\Documents\New folder\Project_1_1\bin\Debug\concrt140.dll
+C:\Users\Rana\Documents\New folder\Project_1_1\bin\Debug\cvextern.dll
+C:\Users\Rana\Documents\New folder\Project_1_1\bin\Debug\msvcp140.dll
+C:\Users\Rana\Documents\New folder\Project_1_1\bin\Debug\opencv_ffmpeg320.dll
+C:\Users\Rana\Documents\New folder\Project_1_1\bin\Debug\SQLite.dll
+C:\Users\Rana\Documents\New folder\Project_1_1\bin\Debug\SQLite.NET.dll
+C:\Users\Rana\Documents\New folder\Project_1_1\bin\Debug\SQLite3.dll
+C:\Users\Rana\Documents\New folder\Project_1_1\bin\Debug\vcruntime140.dll
+C:\Users\Rana\Documents\New folder\Project_1_1\bin\Debug\Project_1_1.exe.config
+C:\Users\Rana\Documents\New folder\Project_1_1\bin\Debug\Project_1_1.exe
+C:\Users\Rana\Documents\New folder\Project_1_1\bin\Debug\Project_1_1.pdb
+C:\Users\Rana\Documents\New folder\Project_1_1\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\Rana\Documents\New folder\Project_1_1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Rana\Documents\New folder\Project_1_1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Rana\Documents\New folder\Project_1_1\bin\Debug\Emgu.CV.World.dll
+C:\Users\Rana\Documents\New folder\Project_1_1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Rana\Documents\New folder\Project_1_1\bin\Debug\ZedGraph.dll
+C:\Users\Rana\Documents\New folder\Project_1_1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Rana\Documents\New folder\Project_1_1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Rana\Documents\New folder\Project_1_1\bin\Debug\Emgu.CV.World.xml
+C:\Users\Rana\Documents\New folder\Project_1_1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\Rana\Documents\New folder\Project_1_1\obj\Debug\Project_1_1.csprojResolveAssemblyReference.cache
+C:\Users\Rana\Documents\New folder\Project_1_1\obj\Debug\Project_1_1.DocForm.resources
+C:\Users\Rana\Documents\New folder\Project_1_1\obj\Debug\Project_1_1.First_form.resources
+C:\Users\Rana\Documents\New folder\Project_1_1\obj\Debug\Project_1_1.Form1.resources
+C:\Users\Rana\Documents\New folder\Project_1_1\obj\Debug\Project_1_1.Form2.resources
+C:\Users\Rana\Documents\New folder\Project_1_1\obj\Debug\Project_1_1.Properties.Resources.resources
+C:\Users\Rana\Documents\New folder\Project_1_1\obj\Debug\Project_1_1.Train.resources
+C:\Users\Rana\Documents\New folder\Project_1_1\obj\Debug\Project_1_1.csproj.GenerateResource.cache
+C:\Users\Rana\Documents\New folder\Project_1_1\obj\Debug\Project_1_1.csproj.CoreCompileInputs.cache
+C:\Users\Rana\Documents\New folder\Project_1_1\obj\Debug\Project_1_1.csproj.CopyComplete
+C:\Users\Rana\Documents\New folder\Project_1_1\obj\Debug\Project_1_1.exe
+C:\Users\Rana\Documents\New folder\Project_1_1\obj\Debug\Project_1_1.pdb
+C:\Users\Rana\Documents\Newfolder\Project_1_1\bin\Debug\concrt140.dll
+C:\Users\Rana\Documents\Newfolder\Project_1_1\bin\Debug\cvextern.dll
+C:\Users\Rana\Documents\Newfolder\Project_1_1\bin\Debug\msvcp140.dll
+C:\Users\Rana\Documents\Newfolder\Project_1_1\bin\Debug\opencv_ffmpeg320.dll
+C:\Users\Rana\Documents\Newfolder\Project_1_1\bin\Debug\SQLite.dll
+C:\Users\Rana\Documents\Newfolder\Project_1_1\bin\Debug\SQLite.NET.dll
+C:\Users\Rana\Documents\Newfolder\Project_1_1\bin\Debug\SQLite3.dll
+C:\Users\Rana\Documents\Newfolder\Project_1_1\bin\Debug\vcruntime140.dll
+C:\Users\Rana\Documents\Newfolder\Project_1_1\bin\Debug\Project_1_1.exe.config
+C:\Users\Rana\Documents\Newfolder\Project_1_1\bin\Debug\Project_1_1.exe
+C:\Users\Rana\Documents\Newfolder\Project_1_1\bin\Debug\Project_1_1.pdb
+C:\Users\Rana\Documents\Newfolder\Project_1_1\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\Rana\Documents\Newfolder\Project_1_1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Rana\Documents\Newfolder\Project_1_1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Rana\Documents\Newfolder\Project_1_1\bin\Debug\Emgu.CV.World.dll
+C:\Users\Rana\Documents\Newfolder\Project_1_1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Rana\Documents\Newfolder\Project_1_1\bin\Debug\ZedGraph.dll
+C:\Users\Rana\Documents\Newfolder\Project_1_1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Rana\Documents\Newfolder\Project_1_1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Rana\Documents\Newfolder\Project_1_1\bin\Debug\Emgu.CV.World.xml
+C:\Users\Rana\Documents\Newfolder\Project_1_1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\Rana\Documents\Newfolder\Project_1_1\obj\Debug\Project_1_1.csprojResolveAssemblyReference.cache
+C:\Users\Rana\Documents\Newfolder\Project_1_1\obj\Debug\Project_1_1.DocForm.resources
+C:\Users\Rana\Documents\Newfolder\Project_1_1\obj\Debug\Project_1_1.First_form.resources
+C:\Users\Rana\Documents\Newfolder\Project_1_1\obj\Debug\Project_1_1.Form1.resources
+C:\Users\Rana\Documents\Newfolder\Project_1_1\obj\Debug\Project_1_1.Form2.resources
+C:\Users\Rana\Documents\Newfolder\Project_1_1\obj\Debug\Project_1_1.Properties.Resources.resources
+C:\Users\Rana\Documents\Newfolder\Project_1_1\obj\Debug\Project_1_1.Train.resources
+C:\Users\Rana\Documents\Newfolder\Project_1_1\obj\Debug\Project_1_1.csproj.GenerateResource.cache
+C:\Users\Rana\Documents\Newfolder\Project_1_1\obj\Debug\Project_1_1.csproj.CoreCompileInputs.cache
+C:\Users\Rana\Documents\Newfolder\Project_1_1\obj\Debug\Project_1_1.csproj.CopyComplete
+C:\Users\Rana\Documents\Newfolder\Project_1_1\obj\Debug\Project_1_1.exe
+C:\Users\Rana\Documents\Newfolder\Project_1_1\obj\Debug\Project_1_1.pdb
+C:\Users\Rana\Documents\Newfolder\Project_1_1\obj\Debug\Project_1_1.Dtrain.resources
+C:\Users\Rana\Documents\Newfolder\Project_1_1\obj\Debug\Project_1_1.Form3.resources
+D:\Aya Study\Graduation_Project\Project_1_1\bin\Debug\concrt140.dll
+D:\Aya Study\Graduation_Project\Project_1_1\bin\Debug\cvextern.dll
+D:\Aya Study\Graduation_Project\Project_1_1\bin\Debug\msvcp140.dll
+D:\Aya Study\Graduation_Project\Project_1_1\bin\Debug\opencv_ffmpeg320.dll
+D:\Aya Study\Graduation_Project\Project_1_1\bin\Debug\SQLite.dll
+D:\Aya Study\Graduation_Project\Project_1_1\bin\Debug\SQLite.NET.dll
+D:\Aya Study\Graduation_Project\Project_1_1\bin\Debug\SQLite3.dll
+D:\Aya Study\Graduation_Project\Project_1_1\bin\Debug\vcruntime140.dll
+D:\Aya Study\Graduation_Project\Project_1_1\bin\Debug\Project_1_1.exe.config
+D:\Aya Study\Graduation_Project\Project_1_1\bin\Debug\Project_1_1.exe
+D:\Aya Study\Graduation_Project\Project_1_1\bin\Debug\Project_1_1.pdb
+D:\Aya Study\Graduation_Project\Project_1_1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\Aya Study\Graduation_Project\Project_1_1\bin\Debug\ZedGraph.dll
+D:\Aya Study\Graduation_Project\Project_1_1\bin\Debug\Emgu.CV.UI.xml
+D:\Aya Study\Graduation_Project\Project_1_1\bin\Debug\Emgu.CV.UI.GL.xml
+D:\Aya Study\Graduation_Project\Project_1_1\bin\Debug\Emgu.CV.World.xml
+D:\Aya Study\Graduation_Project\Project_1_1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+D:\Aya Study\Graduation_Project\Project_1_1\obj\Debug\Project_1_1.csprojResolveAssemblyReference.cache
+D:\Aya Study\Graduation_Project\Project_1_1\obj\Debug\Project_1_1.DocForm.resources
+D:\Aya Study\Graduation_Project\Project_1_1\obj\Debug\Project_1_1.Dtrain.resources
+D:\Aya Study\Graduation_Project\Project_1_1\obj\Debug\Project_1_1.First_form.resources
+D:\Aya Study\Graduation_Project\Project_1_1\obj\Debug\Project_1_1.Form1.resources
+D:\Aya Study\Graduation_Project\Project_1_1\obj\Debug\Project_1_1.Form2.resources
+D:\Aya Study\Graduation_Project\Project_1_1\obj\Debug\Project_1_1.Properties.Resources.resources
+D:\Aya Study\Graduation_Project\Project_1_1\obj\Debug\Project_1_1.Train.resources
+D:\Aya Study\Graduation_Project\Project_1_1\obj\Debug\Project_1_1.csproj.GenerateResource.Cache
+D:\Aya Study\Graduation_Project\Project_1_1\obj\Debug\Project_1_1.csproj.CoreCompileInputs.cache
+D:\Aya Study\Graduation_Project\Project_1_1\obj\Debug\Project_1_1.exe
+D:\Aya Study\Graduation_Project\Project_1_1\obj\Debug\Project_1_1.pdb
+D:\Aya Study\Graduation_Project\Project_1_1\obj\Debug\Project_1_1.Subject_list.resources
+D:\Aya Study\Graduation_Project\Project_1_1\obj\Debug\Project_1_1.Admin_Login.resources
+D:\Aya Study\Graduation_Project\Project_1_1\obj\Debug\Project_1_1.info.resources
+D:\Aya Study\Graduation_Project\Project_1_1\obj\Debug\Project_1_1.info_train.resources
+D:\Aya Study\Graduation_Project\Project_1_1\obj\Debug\Project_1_1.Atten.resources
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\bin\Debug\Project_1_1.exe.config
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\obj\Debug\Project_1_1.exe
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\obj\Debug\Project_1_1.pdb
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\bin\Debug\concrt140.dll
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\bin\Debug\cvextern.dll
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\bin\Debug\msvcp140.dll
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\bin\Debug\opencv_ffmpeg320.dll
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\bin\Debug\SQLite.dll
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\bin\Debug\SQLite.NET.dll
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\bin\Debug\SQLite3.dll
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\bin\Debug\vcruntime140.dll
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\bin\Debug\Project_1_1.exe
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\bin\Debug\Project_1_1.pdb
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\bin\Debug\Emgu.CV.World.dll
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\bin\Debug\ZedGraph.dll
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\bin\Debug\Emgu.CV.World.xml
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\obj\Debug\Project_1_1.csprojResolveAssemblyReference.cache
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\obj\Debug\Project_1_1.Admin_Login.resources
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\obj\Debug\Project_1_1.Atten.resources
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\obj\Debug\Project_1_1.DocForm.resources
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\obj\Debug\Project_1_1.Dtrain.resources
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\obj\Debug\Project_1_1.First_form.resources
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\obj\Debug\Project_1_1.Form1.resources
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\obj\Debug\Project_1_1.Form2.resources
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\obj\Debug\Project_1_1.Subject_list.resources
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\obj\Debug\Project_1_1.info.resources
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\obj\Debug\Project_1_1.info_train.resources
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\obj\Debug\Project_1_1.Properties.Resources.resources
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\obj\Debug\Project_1_1.Train.resources
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\obj\Debug\Project_1_1.csproj.GenerateResource.Cache
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\obj\Debug\Project_1_1.DoctorLogincs.resources
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\obj\Debug\Project_1_1.Extract.resources
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\obj\Debug\Project_1_1.LogIn.resources
+C:\Users\Alia Mahmoud\Desktop\Project_1_1\obj\Debug\Project_1_1.Notme.resources
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\bin\Debug\concrt140.dll
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\bin\Debug\cvextern.dll
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\bin\Debug\msvcp140.dll
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\bin\Debug\opencv_ffmpeg320.dll
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\bin\Debug\SQLite.dll
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\bin\Debug\SQLite.NET.dll
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\bin\Debug\SQLite3.dll
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\bin\Debug\vcruntime140.dll
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\bin\Debug\Project_1_1.exe.config
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\bin\Debug\Project_1_1.exe
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\bin\Debug\Project_1_1.pdb
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\bin\Debug\Emgu.CV.World.dll
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\bin\Debug\ZedGraph.dll
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\bin\Debug\Emgu.CV.World.xml
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\obj\Debug\Project_1_1.csprojResolveAssemblyReference.cache
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\obj\Debug\Project_1_1.Admin_Login.resources
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\obj\Debug\Project_1_1.Atten.resources
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\obj\Debug\Project_1_1.DocForm.resources
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\obj\Debug\Project_1_1.DoctorLogincs.resources
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\obj\Debug\Project_1_1.Dtrain.resources
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\obj\Debug\Project_1_1.Extract.resources
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\obj\Debug\Project_1_1.First_form.resources
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\obj\Debug\Project_1_1.Form1.resources
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\obj\Debug\Project_1_1.Form2.resources
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\obj\Debug\Project_1_1.Subject_list.resources
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\obj\Debug\Project_1_1.info.resources
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\obj\Debug\Project_1_1.info_train.resources
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\obj\Debug\Project_1_1.LogIn.resources
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\obj\Debug\Project_1_1.Notme.resources
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\obj\Debug\Project_1_1.Properties.Resources.resources
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\obj\Debug\Project_1_1.Train.resources
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\obj\Debug\Project_1_1.csproj.GenerateResource.Cache
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\obj\Debug\Project_1_1.csproj.CoreCompileInputs.cache
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\obj\Debug\Project_1_1.exe
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\obj\Debug\Project_1_1.pdb
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\obj\Debug\Project_1_1.ID_Camera.resources
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\obj\Debug\Project_1_1.Invalid_Password.resources
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\obj\Debug\Project_1_1.PicBox.resources
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\obj\Debug\Project_1_1.Submity.resources
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\obj\Debug\Project_1_1.Invalid.resources
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\obj\Debug\Project_1_1.invalid2.resources
+C:\Users\shimaa\Desktop\Our latest proj copy\Project_1_1\obj\Debug\Project_1_1.File_Path.resources
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\bin\Debug\Project_1_1.exe.config
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.exe
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.pdb
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\bin\Debug\concrt140.dll
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\bin\Debug\cvextern.dll
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\bin\Debug\msvcp140.dll
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\bin\Debug\opencv_ffmpeg320.dll
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\bin\Debug\SQLite.dll
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\bin\Debug\SQLite.NET.dll
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\bin\Debug\SQLite3.dll
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\bin\Debug\vcruntime140.dll
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\bin\Debug\Project_1_1.exe
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\bin\Debug\Project_1_1.pdb
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\bin\Debug\Emgu.CV.World.dll
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\bin\Debug\ZedGraph.dll
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\bin\Debug\Emgu.CV.World.xml
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.csprojResolveAssemblyReference.cache
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.Admin_Login.resources
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.Atten.resources
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.Dtrain.resources
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.Extract.resources
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.File_Path.resources
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.First_form.resources
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.ID_Camera.resources
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.info.resources
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.info_train.resources
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.Invalid.resources
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.invalid2.resources
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.Invalid_Password.resources
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.LogIn.resources
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.Notme.resources
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.PicBox.resources
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.Properties.Resources.resources
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.Submity.resources
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.csproj.GenerateResource.Cache
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.aboutUs.resources
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.Help.resources
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.How_to_use.resources
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.NoLecture.resources
+C:\Users\Alia Mahmoud\Desktop\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.add.resources
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\bin\Debug\Project_1_1.exe.config
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.exe
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.pdb
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\bin\Debug\concrt140.dll
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\bin\Debug\cvextern.dll
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\bin\Debug\msvcp140.dll
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\bin\Debug\opencv_ffmpeg320.dll
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\bin\Debug\SQLite.dll
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\bin\Debug\SQLite.NET.dll
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\bin\Debug\SQLite3.dll
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\bin\Debug\vcruntime140.dll
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\bin\Debug\Project_1_1.exe
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\bin\Debug\Project_1_1.pdb
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\bin\Debug\ZedGraph.dll
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\bin\Debug\Emgu.CV.World.xml
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.csprojResolveAssemblyReference.cache
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.aboutUs.resources
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.add.resources
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.Admin_Login.resources
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.Atten.resources
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.Dtrain.resources
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.Extract.resources
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.File_Path.resources
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.First_form.resources
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.Help.resources
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.How_to_use.resources
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.ID_Camera.resources
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.info.resources
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.info_train.resources
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.Invalid.resources
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.invalid2.resources
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.Invalid_Password.resources
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.LogIn.resources
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.NoLecture.resources
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.Notme.resources
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.PicBox.resources
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.Properties.Resources.resources
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.Submity.resources
+C:\Users\Alia Mahmoud\Desktop\New folder (2)\29-4\Our proj copy\Project_1_1\obj\Debug\Project_1_1.csproj.GenerateResource.Cache

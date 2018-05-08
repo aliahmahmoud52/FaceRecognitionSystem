@@ -1,0 +1,1 @@
+CREATE TABLE doctorSubjects (doctor_id integer , subject_id varchar(10) ,     FOREIGN KEY (doctor_id) REFERENCES doctor(doc_id) primary key(doctor_id , subject_id))
